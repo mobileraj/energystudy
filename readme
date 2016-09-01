@@ -1,0 +1,4 @@
+Used the source
+http://www.eia.gov/electricity/data/browser/#/topic/8?agg=2,0,1&fuel=vtvv&geo=g&sec=g&linechart=ELEC.CONS_TOT_BTU.COW-US-99.M&columnchart=ELEC.CONS_TOT_BTU.COW-US-99.M&map=ELEC.CONS_TOT_BTU.COW-US-99.M&freq=M&start=200101&end=201606&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0
+
+Goal is to understand the periodicity and trends using timeseries function
